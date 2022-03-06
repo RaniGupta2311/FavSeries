@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FavSeries/static/css/main.6574b235.css",
+    "main.js": "/FavSeries/static/js/main.601a8890.js",
+    "static/media/dark.jpeg": "/FavSeries/static/media/dark.6bc0340d8c1f8abe6dce.jpeg",
+    "static/media/got.jpeg": "/FavSeries/static/media/got.f4213e12b4ef21da3c8e.jpeg",
+    "static/media/st.jpeg": "/FavSeries/static/media/st.176f88fc03bfed5a0c9d.jpeg",
+    "static/media/pb.jpeg": "/FavSeries/static/media/pb.9405e1faca09727da7a5.jpeg",
+    "static/media/friends.jpeg": "/FavSeries/static/media/friends.c26ce41c184626285b1e.jpeg",
+    "index.html": "/FavSeries/index.html",
+    "main.6574b235.css.map": "/FavSeries/static/css/main.6574b235.css.map",
+    "main.601a8890.js.map": "/FavSeries/static/js/main.601a8890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6574b235.css",
+    "static/js/main.601a8890.js"
+  ]
+}
